@@ -3,6 +3,8 @@ package StreamDemo;
 import java.util.ArrayList;
 import java.util.Arrays;
 import static java.util.Arrays.asList;
+import static java.util.stream.Collectors.toList;
+
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -23,6 +25,11 @@ public class StreamDemo {
 //        
 //        stuff.stream().filter(s -> s.length() == 4)
 //                .forEach(s -> System.out.println(s));
+
+//        List <String> listtest = stuff.stream().filter(s -> s.length() == 4)
+//                .collect(Collectors.toList());
+
+ //       listtest.forEach(s -> System.out.println(s));
 //        
 //        stuff.stream().filter(s -> s.charAt(0) == 'f')
 //                .forEach(s -> System.out.println(s));
