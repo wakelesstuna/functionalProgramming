@@ -16,9 +16,14 @@ public class ÖvnUppg1a_filter {
                 .collect(Collectors.toList());
     }
 
-    public int getNumberOfBooksBelongingToAnOwner(String owner, List<Book> list){
+    public int getNumberOfBooksBelongingToAnOwner1(String owner, List<Book> list){
         return list.stream().filter(s -> s.getOwner().equalsIgnoreCase(owner))
                 .collect(Collectors.toList()).size();
+    }
+
+    public long getNumberOfBooksBelongingToAnOwner2(String owner, List<Book> list){
+        return list.stream().filter(s -> s.getOwner().equalsIgnoreCase(owner))
+                .count();
     }
 
     public ÖvnUppg1a_filter(){
@@ -34,7 +39,9 @@ public class ÖvnUppg1a_filter {
 
         System.out.println();
 
-        System.out.println(getNumberOfBooksBelongingToAnOwner("Sigrun", list));
+        System.out.println(getNumberOfBooksBelongingToAnOwner1("Sigrun", list));
+
+        System.out.println(getNumberOfBooksBelongingToAnOwner2("Sigrun", list));
 
     }
 
