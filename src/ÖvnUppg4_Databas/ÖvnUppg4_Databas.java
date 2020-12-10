@@ -30,32 +30,32 @@ public class ÖvnUppg4_Databas {
     public Database database = new Database();
     public List<Question> questions = database.getQuestions();
     
-    //G. Skriv en funktioner som returnerar hur många frågor det finns i databasen?
+    //Skriv en funktioner som returnerar hur många frågor det finns i databasen?
     public int getAmountOfQuestionsInDatabase(){
 
         throw new UnsupportedOperationException("Not supported yet.");
     }
     
-    //G. Hur många frågor finns i databasen för en viss, given kategori (som ges som inparameter)
+    //Hur många frågor finns i databasen för en viss, given kategori (som ges som inparameter)
     public int getAmountOfQuestionsForACertainCategory(Category category){
        throw new UnsupportedOperationException("Not supported yet.");
 
     }
 
-    //G. Skapa en lista innehållandes samtliga frågesträngar i databasen
+    //Skapa en lista innehållandes samtliga frågesträngar i databasen
     public List<String> getListOfAllQuestions(){
 
         throw new UnsupportedOperationException("Not supported yet.");
     }
     
-    //G. Skapa en lista innehållandes samtliga frågesträngar där frågan tillhör en viss kategori
+    //Skapa en lista innehållandes samtliga frågesträngar där frågan tillhör en viss kategori
     //Kategorin ges som inparameter
     public List<String> getAllQuestionStringsBelongingACategory(Category category){
         throw new UnsupportedOperationException("Not supported yet.");
 
     }
 
-    //G. Skapa en lista av alla svarsalternativ, där varje svarsalternativ får förekomma
+    //Skapa en lista av alla svarsalternativ, där varje svarsalternativ får förekomma
     // en och endast en gång i den lista som du ska returnera
     public List<String> getAllAnswerOptionsDistinct(){
         throw new UnsupportedOperationException("Not supported yet.");
@@ -63,27 +63,27 @@ public class ÖvnUppg4_Databas {
     }
 
 
-    //VG. Finns en viss sträng, given som inparameter, som svarsalternativ till någon fråga i vår databas?
+    //Finns en viss sträng, given som inparameter, som svarsalternativ till någon fråga i vår databas?
     public boolean isThisAnAnswerOption(String answerCandidate){
         throw new UnsupportedOperationException("Not supported yet.");
 
     }
 
-    //VG. Hur ofta förekommer ett visst svarsalternativ, givet som inparameter, i databasen
+    //Hur ofta förekommer ett visst svarsalternativ, givet som inparameter, i databasen
     public int getAnswerCandidateFrequncy(String answerCandidate){
 
         throw new UnsupportedOperationException("Not supported yet.");
 
     }
 
-    //VG. Skapa en Map där kategorierna är nycklar och värdena är en lista
+    //Skapa en Map där kategorierna är nycklar och värdena är en lista
     //av de frågesträngar som tillhör varje kategori
     public Map<Category, List<String>> getQuestionGroupedByCategory(){
 
        throw new UnsupportedOperationException("Not supported yet.");
     }
 
-    //VG. Skapa en funktion som hittar det svarsalternativ som har flest bokstäver, i en kategori, given som inparameter
+    //Skapa en funktion som hittar det svarsalternativ som har flest bokstäver, i en kategori, given som inparameter
     // Du måste använda Reduce!
     public String getLongestLettercountAnwerInAGivenCategory(Category c)
     {
