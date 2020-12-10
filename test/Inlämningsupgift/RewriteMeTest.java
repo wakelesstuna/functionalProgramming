@@ -1,18 +1,18 @@
-package ÖvnUppg4_Databas;
+package Inlämningsupgift;
 
 import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import static org.junit.jupiter.api.Assertions.*;
 
-public class ÖvnUppg4_DatabasTest {
+
+public class RewriteMeTest {
 
     public Database database = new Database();
     public List<Question> questions = database.getQuestions();
-    ÖvnUppg4_Databas x = new ÖvnUppg4_Databas();
+    RewriteMe x = new RewriteMe();
 
 
     @Test

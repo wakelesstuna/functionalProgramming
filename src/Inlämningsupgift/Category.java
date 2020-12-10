@@ -1,4 +1,4 @@
-package ÖvnUppg4_Databas;
+package Inlämningsupgift;
 
 
 public enum Category {

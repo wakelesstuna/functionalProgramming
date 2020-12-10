@@ -86,7 +86,11 @@
       <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/META-INF/JavaFuncProg.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,43 +105,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.java">
+        <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/Database.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-170">
+              <caret line="24" column="6" selection-start-line="24" selection-end-line="24" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java">
+        <entry file="file://$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -207,6 +187,8 @@
         <option value="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.kt" />
         <option value="$PROJECT_DIR$/src/ÖvnUppg4_Databas/QuestionJava.java" />
         <option value="$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java" />
+        <option value="$PROJECT_DIR$/src/Inlämningsupgift/ÖvnUppg4_Databas.java" />
+        <option value="$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java" />
       </list>
     </option>
   </component>
@@ -239,13 +221,19 @@
             <path>
               <item name="JavaFuncProg" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaFuncProg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Inlämningsupgift" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFuncProg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFuncProg" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaFuncProg" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaFuncProg" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ÖvnUppg4_Databas" type="462c0819:PsiDirectoryNode" />
+              <item name="Inlämningsupgift" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,6 +261,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Inlämningsupgift" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ÖvnUppg2c_SingleDigitOperation" />
       <recent name="ÖvnUppg1_BasicStreams" />
@@ -293,12 +284,75 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ÖvnUppg4_DatabasTest">
+  <component name="RunManager" selected="JUnit.RewriteMeTest">
+    <configuration name="RewriteMeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFuncProg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
+      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RewriteMeTest.getAllAnswerOptionsDistinctTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFuncProg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
+      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
+      <option name="METHOD_NAME" value="getAllAnswerOptionsDistinctTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RewriteMeTest.getAmountOfQuestionsInDatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFuncProg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
+      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
+      <option name="METHOD_NAME" value="getAmountOfQuestionsInDatabaseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RewriteMeTest.getLongestLettercountAnwerInAGivenCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFuncProg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
+      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
+      <option name="METHOD_NAME" value="getLongestLettercountAnwerInAGivenCategoryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ÖvnUppg4_DatabasFacitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFuncProg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg4_Databas.*" />
+          <option name="PATTERN" value="Inlämningsupgift.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,75 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ÖvnUppg4_DatabasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaFuncProg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg4_Databas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg4_Databas" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg4_Databas.ÖvnUppg4_DatabasTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ÖvnUppg4_DatabasTest.getAllAnswerOptionsDistinctTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaFuncProg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg4_Databas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg4_Databas" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg4_Databas.ÖvnUppg4_DatabasTest" />
-      <option name="METHOD_NAME" value="getAllAnswerOptionsDistinctTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ÖvnUppg4_DatabasTest.getAmountOfQuestionsInDatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaFuncProg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg4_Databas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg4_Databas" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg4_Databas.ÖvnUppg4_DatabasTest" />
-      <option name="METHOD_NAME" value="getAmountOfQuestionsInDatabaseTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ÖvnUppg4_DatabasTest.getLongestLettercountAnwerInAGivenCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaFuncProg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg4_Databas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg4_Databas" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg4_Databas.ÖvnUppg4_DatabasTest" />
-      <option name="METHOD_NAME" value="getLongestLettercountAnwerInAGivenCategoryTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ÖvnUppg4_DatabasTest" />
-        <item itemvalue="JUnit.ÖvnUppg4_DatabasTest.getAllAnswerOptionsDistinctTest" />
-        <item itemvalue="JUnit.ÖvnUppg4_DatabasTest.getAmountOfQuestionsInDatabaseTest" />
-        <item itemvalue="JUnit.ÖvnUppg4_DatabasTest.getLongestLettercountAnwerInAGivenCategoryTest" />
+        <item itemvalue="JUnit.RewriteMeTest" />
+        <item itemvalue="JUnit.RewriteMeTest.getAllAnswerOptionsDistinctTest" />
+        <item itemvalue="JUnit.RewriteMeTest.getAmountOfQuestionsInDatabaseTest" />
+        <item itemvalue="JUnit.RewriteMeTest.getLongestLettercountAnwerInAGivenCategoryTest" />
         <item itemvalue="JUnit.ÖvnUppg4_DatabasFacitTest" />
       </list>
     </recent_temporary>
@@ -405,7 +396,7 @@
       <workItem from="1605623406901" duration="2386000" />
       <workItem from="1605772079222" duration="10145000" />
       <workItem from="1606664250308" duration="3252000" />
-      <workItem from="1607605970468" duration="130000" />
+      <workItem from="1607605970468" duration="573000" />
     </task>
     <task id="LOCAL-00001" summary="Övningsuppgifter tillagda">
       <created>1599575662300</created>
@@ -435,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607606036448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Text i ÖvnUppg4 uppdaterad (igen)">
+      <created>1607606121962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607606121962</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -471,13 +469,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35060000" />
+    <option name="totallyTimeSpent" value="35503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1965812" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26875594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -895,7 +893,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_DatabasFacit.java" />
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/Category.java">
+    <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/Category.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
@@ -903,16 +901,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.kt" />
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.java">
+    <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/Database.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -920,20 +911,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/Question.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java">
+    <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+        <state relative-caret-position="-170">
+          <caret line="24" column="6" selection-start-line="24" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
         </state>
       </provider>
     </entry>

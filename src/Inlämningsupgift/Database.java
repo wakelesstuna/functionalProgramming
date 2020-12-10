@@ -1,4 +1,4 @@
-package ÖvnUppg4_Databas;
+package Inlämningsupgift;
 
 import java.util.Arrays;
 import java.util.List;

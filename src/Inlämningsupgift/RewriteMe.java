@@ -1,9 +1,7 @@
-package ÖvnUppg4_Databas;
+package Inlämningsupgift;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 /*
 Inlämningsuppgit i kursen Funktionell Programmering för JAVA-programmet
@@ -24,7 +22,7 @@ medföljande detta projekt, och inte heller metodsignaturerna i denna fil eller 
 ni då riskerar att påverka rättningen i negativ riktning.
  */
 
-public class ÖvnUppg4_Databas {
+public class RewriteMe {
     
     public Database database = new Database();
     public List<Question> questions = database.getQuestions();
@@ -83,7 +81,7 @@ public class ÖvnUppg4_Databas {
     }
 
     //Skapa en funktion som hittar det svarsalternativ som har flest bokstäver, i en kategori, given som inparameter
-    // Du måste använda Reduce!
+    // OBS: Du måste använda Reduce!
     public String getLongestLettercountAnwerInAGivenCategory(Category c)
     {
         throw new UnsupportedOperationException("Not supported yet.");
@@ -91,7 +89,7 @@ public class ÖvnUppg4_Databas {
 
 
     public static void main(String[] args){
-        ÖvnUppg4_Databas uppg4 = new ÖvnUppg4_Databas();
+        RewriteMe uppg4 = new RewriteMe();
         
     }
 
