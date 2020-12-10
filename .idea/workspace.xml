@@ -124,8 +124,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="85" column="6" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
+            <state relative-caret-position="221">
+              <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -405,7 +405,7 @@
       <workItem from="1605623406901" duration="2386000" />
       <workItem from="1605772079222" duration="10145000" />
       <workItem from="1606664250308" duration="3252000" />
-      <workItem from="1607605970468" duration="29000" />
+      <workItem from="1607605970468" duration="130000" />
     </task>
     <task id="LOCAL-00001" summary="Övningsuppgifter tillagda">
       <created>1599575662300</created>
@@ -428,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606667507218</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Text i ÖvnUppg4 uppdaterad (igen)">
+      <created>1607606036448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607606036448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -464,7 +471,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34959000" />
+    <option name="totallyTimeSpent" value="35060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
@@ -541,7 +548,8 @@
     <MESSAGE value="Övningsuppgifter tillagda" />
     <MESSAGE value="Tester till databas-uppgiften tillagda" />
     <MESSAGE value="Text i ÖvnUppg4 uppdaterad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Text i ÖvnUppg4 uppdaterad" />
+    <MESSAGE value="Text i ÖvnUppg4 uppdaterad (igen)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Text i ÖvnUppg4 uppdaterad (igen)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/LambdaKata/KidsNamesTest.java">
@@ -924,8 +932,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="85" column="6" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
+        <state relative-caret-position="221">
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
         </state>
       </provider>
     </entry>

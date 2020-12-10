@@ -14,8 +14,7 @@ och skriv ett pipeline-uttryck som returnerar det som ska returneras.
 Streams MÅSTE användas i samtliga funktioner som lämnas in
 För att testa om era funktioner funkar, kör testerna som hör till denna fil
 
-För G på denna uppgift, implementera alla funktioner märkta med G
-FÖr VG, implementera alla funktioner märkta med G OCH alla funktioner märkta med VG
+För att bli godkänd på denna uppgift måste minst 7 av funktionerna vara implementerade.
 
 Sigruns bedömning av denna uppgift kommer att gå till så att hon klipper in er version av denna fil
 i sitt projekt och kör testerna.
