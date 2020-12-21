@@ -62,6 +62,7 @@ public class SantaClausWorkShop {
 
     }
 
+    // recursive method
     public List<String> findBosses(String name) {
         for (String lines : input) {
             String[] lineSplit = lines.split(" ");
@@ -103,6 +104,7 @@ public class SantaClausWorkShop {
         }
     }
 
+    // recursive method
     public List<String> findSubBosses(String name) {
         for (String lines : input) {
             String[] lineSplit = lines.split(" ");

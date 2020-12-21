@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ebb4813-2f64-4541-a456-213deac3b2a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFuncProg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFuncProg.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaKata/FlattenCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaKata/FlattenCollection.java" afterDir="false" />
-    </list>
+    <list default="true" id="5ebb4813-2f64-4541-a456-213deac3b2a5" name="Default Changelist" comment="trying streams" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +213,7 @@
       <workItem from="1608207060669" duration="1517000" />
       <workItem from="1608543057777" duration="596000" />
       <workItem from="1608543673260" duration="2306000" />
-      <workItem from="1608583580052" duration="5632000" />
+      <workItem from="1608583580052" duration="5996000" />
     </task>
     <task id="LOCAL-00001" summary="Övningsuppgifter tillagda">
       <created>1599575662300</created>
@@ -255,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607606121962</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="trying streams">
+      <created>1608589492521</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608589492521</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +280,8 @@
     <MESSAGE value="Tester till databas-uppgiften tillagda" />
     <MESSAGE value="Text i ÖvnUppg4 uppdaterad" />
     <MESSAGE value="Text i ÖvnUppg4 uppdaterad (igen)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Text i ÖvnUppg4 uppdaterad (igen)" />
+    <MESSAGE value="trying streams" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying streams" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1053" y="100" width="774" height="887" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1607885201923">
@@ -293,26 +296,34 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1608143149856" />
-    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1608588984358">
+    <state x="831" y="438" key="Github.ShareDialog" timestamp="1608589569165">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608588984358" />
-    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1608588984358">
+    <state x="831" y="438" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1608589569165" />
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1608589444885">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608588984358" />
-    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1608588984358">
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608589444885" />
+    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1608589444885">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608588984358" />
-    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1608588984358">
+    <state width="1877" height="331" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608589444885" />
+    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1608589444885">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608588984358" />
+    <state width="1877" height="331" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608589444885" />
+    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1608589444885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608589444885" />
     <state x="461" y="185" key="SettingsEditor" timestamp="1608543650313">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1608543650313" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1608589497665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1608589497665" />
     <state x="664" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607854846266">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
