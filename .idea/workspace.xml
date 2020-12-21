@@ -1,99 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5ebb4813-2f64-4541-a456-213deac3b2a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaDemo/LambdaDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaDemo/LambdaDemoPerson$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaDemo/LambdaDemoPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/FlattenCollection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/GetOldestPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/GetStats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/Grouping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/Joining.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/KidsNames.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/LessThanFour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/Partitioning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/SumElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/UpperCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/FlattenCollection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/GetOldestPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/GetStats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/Grouping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/Joining.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/KidsNames.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/LessThanFour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/Partitioning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/SumElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/UpperCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaParameterDemo/EmptyParameterDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaParameterDemo/EmptyParameterDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaParameterDemo/ListenerDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaParameterDemo/ListenerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StreamDemo/MapDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StreamDemo/StreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StreamDemo/StreamDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StreamDemo/totaleclipse.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringOperatorDemo/ConsumerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringOperatorDemo/PredicateExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringOperatorDemo/StringOperator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringOperatorDemo/StringOperatorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringPredicateDemo/FunctionalInterfaceDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringPredicateDemo/StringPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/BookUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1a_filter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1b_map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1c_flatmap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1d_reduce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1e_primitive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1f_sorting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1g_joining.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1h_maps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2_FunctionalInterface/MathOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2_FunctionalInterface/MathOperationMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2_FunctionalInterfaceFacit/MathOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2_FunctionalInterfaceFacit/MathOperationMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2c_SingleDigitOperation/SingleDigitOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2c_SingleDigitOperation/SingleDigitOperationMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg4_Databas/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg4_Databas/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg4_Databas/Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg4_Databas/ÖvnUppg4_Databas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg5_URLWordCount/ÖvnUppg5_URLWordCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg5_URLWordCount/ÖvnUppg5_URLWordCountB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/FlattenCollectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/GetOldestPersonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/GetStatsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/GroupingTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/JoiningTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/KidsNamesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/LessThanFourTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/PartitioningTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/SumElementsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/UpperCaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/FlattenCollectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/GetOldestPersonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/GetStatsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/GroupingTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/JoiningTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/KidsNamesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/LessThanFourTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/PartitioningTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/SumElementsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/UpperCaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/META-INF/JavaFuncProg.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFuncProg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFuncProg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaKata/FlattenCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaKata/FlattenCollection.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,147 +33,27 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="24" column="6" selection-start-line="24" selection-end-line="24" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/test/LambdaKata/testclass.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/FlattenCollectionTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/GroupingTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/JoiningTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/GetOldestPersonTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/GetStatsTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/GroupingTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/JoiningTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/KidsNamesTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/LessThanFourTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/PartitioningTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/SumElementsTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKata/UpperCaseTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/FlattenCollectionTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/GetOldestPersonTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/GetStatsTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/KidsNamesTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/LessThanFourTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/PartitioningTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/SumElementsTest.java" />
-        <option value="$PROJECT_DIR$/test/LambdaKataFacit/UpperCaseTest.java" />
-        <option value="$PROJECT_DIR$/src/StreamDemo/StreamDemo.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppgba_map.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1c_map.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1b_map.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1c_flatmap.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/Book.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1d_reduce.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1e_primitive.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1f_sorting.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1g_joining.java" />
-        <option value="$PROJECT_DIR$/src/LambdaKataFacit/Partitioning.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/BookUtil.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1h_maps.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterface/MathOperationMain.java" />
-        <option value="$PROJECT_DIR$/src/StringOperatorDemo/StringOperator.java" />
-        <option value="$PROJECT_DIR$/src/StringOperatorDemo/StringOperatorDemo.java" />
-        <option value="$PROJECT_DIR$/src/StringOperatorDemo/ConsumerDemo.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg2c_SingleDigitOperation/SingleDigitOperation.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg2c_SingleDigitOperation/SingleDigitOperationMain.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterfaceFacit/MathOperationMain.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1a_filter.java" />
-        <option value="$PROJECT_DIR$/test/ÖvnUppg4_Databas/ÖvnUppg4_DatabasFacitTest.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_DatabasFacit.java" />
-        <option value="$PROJECT_DIR$/test/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.kt" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg4_Databas/QuestionJava.java" />
-        <option value="$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java" />
-        <option value="$PROJECT_DIR$/src/Inlämningsupgift/ÖvnUppg4_Databas.java" />
-        <option value="$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="147" />
-    <option name="y" value="35" />
-    <option name="width" value="1630" />
-    <option name="height" value="966" />
-  </component>
+  <component name="ProjectId" id="1lb9BvjBiqtXiKfeGc8F4w5Liry" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaFuncProg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFuncProg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFuncProg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFuncProg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFuncProg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFuncProg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Inlämningsupgift" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFuncProg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFuncProg" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFuncProg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFuncProg" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Inlämningsupgift" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Course" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -252,15 +63,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project/AdventOfCode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31724137" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oscar\Documents\Nackademin\Funktion_programming\Assignments\src\InlämningsUppgiftVG" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Inlämningsupgift" />
     </key>
@@ -272,92 +88,86 @@
       <recent name="C:\Users\s_ola\Dropbox\Jobb\Funktionell programmering\Kod\JavaFuncProg\test" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="JUnit.RewriteMeTest">
-    <configuration name="RewriteMeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InlämningsUppgiftVG.Main" />
       <module name="JavaFuncProg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="PATTERN" value="InlämningsUppgiftVG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
-      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SantaClausWorkShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InlämningsUppgiftVG.SantaClausWorkShop" />
+      <module name="JavaFuncProg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InlämningsUppgiftVG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RewriteMeTest.getAllAnswerOptionsDistinctTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FlattenCollectionTest.transformShouldFlattenCollection (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFuncProg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="PATTERN" value="LambdaKata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
-      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
-      <option name="METHOD_NAME" value="getAllAnswerOptionsDistinctTest" />
+      <option name="PACKAGE_NAME" value="LambdaKata" />
+      <option name="MAIN_CLASS_NAME" value="LambdaKata.FlattenCollectionTest" />
+      <option name="METHOD_NAME" value="transformShouldFlattenCollection" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RewriteMeTest.getAmountOfQuestionsInDatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FlattenCollectionTest.transformShouldFlattenCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFuncProg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="PATTERN" value="LambdaKataFacit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
-      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
-      <option name="METHOD_NAME" value="getAmountOfQuestionsInDatabaseTest" />
+      <option name="PACKAGE_NAME" value="LambdaKataFacit" />
+      <option name="MAIN_CLASS_NAME" value="LambdaKataFacit.FlattenCollectionTest" />
+      <option name="METHOD_NAME" value="transformShouldFlattenCollection" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RewriteMeTest.getLongestLettercountAnwerInAGivenCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RewriteMeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFuncProg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="PATTERN" value="InlämningsUppgiftVG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Inlämningsupgift" />
       <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
-      <option name="METHOD_NAME" value="getLongestLettercountAnwerInAGivenCategoryTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ÖvnUppg4_DatabasFacitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaFuncProg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Inlämningsupgift.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg4_Databas" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg4_Databas.ÖvnUppg4_DatabasFacitTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -366,10 +176,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RewriteMeTest" />
-        <item itemvalue="JUnit.RewriteMeTest.getAllAnswerOptionsDistinctTest" />
-        <item itemvalue="JUnit.RewriteMeTest.getAmountOfQuestionsInDatabaseTest" />
-        <item itemvalue="JUnit.RewriteMeTest.getLongestLettercountAnwerInAGivenCategoryTest" />
-        <item itemvalue="JUnit.ÖvnUppg4_DatabasFacitTest" />
+        <item itemvalue="Application.SantaClausWorkShop" />
+        <item itemvalue="JUnit.FlattenCollectionTest.transformShouldFlattenCollection (1)" />
+        <item itemvalue="JUnit.FlattenCollectionTest.transformShouldFlattenCollection" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -380,6 +190,7 @@
       </map>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -397,6 +208,17 @@
       <workItem from="1605772079222" duration="10145000" />
       <workItem from="1606664250308" duration="3252000" />
       <workItem from="1607605970468" duration="573000" />
+      <workItem from="1607854796258" duration="31278000" />
+      <workItem from="1607928991066" duration="8775000" />
+      <workItem from="1607946694661" duration="297000" />
+      <workItem from="1608127275749" duration="3475000" />
+      <workItem from="1608141354579" duration="8425000" />
+      <workItem from="1608195024861" duration="161000" />
+      <workItem from="1608199370176" duration="3460000" />
+      <workItem from="1608207060669" duration="1517000" />
+      <workItem from="1608543057777" duration="596000" />
+      <workItem from="1608543673260" duration="2306000" />
+      <workItem from="1608583580052" duration="5632000" />
     </task>
     <task id="LOCAL-00001" summary="Övningsuppgifter tillagda">
       <created>1599575662300</created>
@@ -436,111 +258,20 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="ÖvnUppg4_DatabasFacitTest_isThisAnAnswerOption - 2020.11.19 at 11h 03m 33s.xml">
-      <configuration name="ÖvnUppg4_DatabasFacitTest.isThisAnAnswerOption" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasFacitTest - 2020.11.19 at 11h 04m 46s.xml">
-      <configuration name="ÖvnUppg4_DatabasFacitTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasTest_getLongestLettercountAnwerInAGivenCategoryTest - 2020.11.19 at 11h 28m 19s.xml">
-      <configuration name="ÖvnUppg4_DatabasTest.getLongestLettercountAnwerInAGivenCategoryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasTest_getLongestLettercountAnwerInAGivenCategoryTest - 2020.11.19 at 11h 29m 55s.xml">
-      <configuration name="ÖvnUppg4_DatabasTest.getLongestLettercountAnwerInAGivenCategoryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasTest_getLongestLettercountAnwerInAGivenCategoryTest - 2020.11.19 at 11h 30m 38s.xml">
-      <configuration name="ÖvnUppg4_DatabasTest.getLongestLettercountAnwerInAGivenCategoryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasTest - 2020.11.29 at 16h 55m 42s.xml">
-      <configuration name="ÖvnUppg4_DatabasTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasTest_getAmountOfQuestionsInDatabaseTest - 2020.11.29 at 16h 56m 33s.xml">
-      <configuration name="ÖvnUppg4_DatabasTest.getAmountOfQuestionsInDatabaseTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasTest_getAllAnswerOptionsDistinctTest - 2020.11.29 at 17h 00m 29s.xml">
-      <configuration name="ÖvnUppg4_DatabasTest.getAllAnswerOptionsDistinctTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasTest - 2020.11.29 at 17h 07m 10s.xml">
-      <configuration name="ÖvnUppg4_DatabasTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg4_DatabasTest - 2020.11.29 at 17h 12m 39s.xml">
-      <configuration name="ÖvnUppg4_DatabasTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35503000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26875594" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2673913" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.22608696" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19278252" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2826087" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.22608696" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Övningsuppgifter tillagda" />
@@ -549,389 +280,47 @@
     <MESSAGE value="Text i ÖvnUppg4 uppdaterad (igen)" />
     <option name="LAST_COMMIT_MESSAGE" value="Text i ÖvnUppg4 uppdaterad (igen)" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/LambdaKata/KidsNamesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKata/LessThanFourTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKata/UpperCaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKata/SumElementsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKata/PartitioningTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/GetOldestPersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/GroupingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/JoiningTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/KidsNamesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/LessThanFourTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/PartitioningTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/SumElementsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/UpperCaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_Generics/ÖvnUppg1b_Generics.java" />
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/GetStatsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1f_sorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="93" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1e_primitive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1g_joining.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LambdaKataFacit/Partitioning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/BookUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1h_maps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="56" column="25" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LambdaParameterDemo/ListenerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LambdaParameterDemo/EmptyParameterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LambdaDemo/LambdaDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterfaceFacit/MathOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterface/MathOperationMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterface/MathOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringOperatorDemo/StringOperatorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringOperatorDemo/StringOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringOperatorDemo/PredicateExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringOperatorDemo/ConsumerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2c_SingleDigitOperation/SingleDigitOperationMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2c_SingleDigitOperation/SingleDigitOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterfaceFacit/MathOperationMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1a_filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1c_flatmap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1b_map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StreamDemo/StreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1013">
-          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StreamDemo/StreamDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-884">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_BasicStreams/ÖvnUppg1d_reduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LambdaKata/FlattenCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKata/FlattenCollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LambdaKataFacit/FlattenCollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_DatabasFacit.java" />
-    <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="24" column="6" selection-start-line="24" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="1053" y="100" width="774" height="887" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1607885201923">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1053" y="100" width="774" height="887" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607885201923" />
+    <state x="1245" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1608143675276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1245" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1608143675276" />
+    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1608143149856">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1608143149856" />
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1608588984358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608588984358" />
+    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1608588984358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608588984358" />
+    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1608588984358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608588984358" />
+    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1608588984358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608588984358" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1608543650313">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1608543650313" />
+    <state x="664" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607854846266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="664" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1607854846266" />
+    <state x="457" y="223" key="new project wizard" timestamp="1607891359189">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="457" y="223" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1607891359189" />
   </component>
   <component name="masterDetails">
     <states>

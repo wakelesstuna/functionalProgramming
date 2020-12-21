@@ -1,12 +1,19 @@
 package LambdaKata;
 
+import java.util.Collection;
 import java.util.List;
+import java.util.stream.Collectors;
+
+import static java.util.Arrays.asList;
 
 
 public class FlattenCollection {
 
     public static List<String> transform(List<List<String>> l){
-        throw new UnsupportedOperationException("Not supported yet.");
+        List<List<String>> collection = asList(asList("Viktor", "Farcic"), asList("John", "Doe", "Third"));
+        return collection.stream().flatMap(Collection::stream).collect(Collectors.toList());
+
+        //throw new UnsupportedOperationException("Not supported yet.");
     }
 
     //valfri att implementera
