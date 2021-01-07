@@ -115,8 +115,9 @@ public class RewriteMe {
     //av de frågesträngar som tillhör varje kategori
     public Map<Category, List<String>> getQuestionGroupedByCategory() {
         return questions.stream()
-                .collect(Collectors.groupingBy(Question::getCategory,
-                        TreeMap::new, Collectors.mapping(Question::getQuestionString, Collectors.toList())));
+                .collect(Collectors.groupingBy(Question::getCategory
+                        ,TreeMap::new
+                        ,Collectors.mapping(Question::getQuestionString, Collectors.toList())));
 
         //throw new UnsupportedOperationException("Not supported yet.");
     }

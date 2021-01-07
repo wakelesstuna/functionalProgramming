@@ -29,4 +29,5 @@ public class Person {
     public String getNationality(){
         return nationality;
     }
+
 }

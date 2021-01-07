@@ -18,6 +18,9 @@ public class FlattenCollection {
 
     //valfri att implementera
     static List<String> goingDeeper(List<List<List<String>>> collection) {
-        throw new UnsupportedOperationException("Not supported yet."); 
+        List<List<List<String>>> collection2 = asList(asList(asList("Viktor", "Farcic"), asList("John", "Doe", "Third")));
+        return collection2.stream().flatMap(Collection::stream).flatMap(Collection::stream).collect(Collectors.toList());
+
+        //throw new UnsupportedOperationException("Not supported yet.");
     }
 }

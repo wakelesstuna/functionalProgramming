@@ -1,9 +1,12 @@
 package InlämningsUppgiftVG;
 
 
+import jdk.jshell.spi.ExecutionControl;
+
 import javax.swing.*;
 import java.io.File;
 import java.io.FileNotFoundException;
+
 import java.util.*;
 
 public class SantaClausWorkShop {
@@ -15,6 +18,7 @@ public class SantaClausWorkShop {
 
     protected List<String> bosses = new ArrayList<>();
     protected List<String> subBosses = new ArrayList<>();
+    protected List<String> result = new ArrayList<>();
 
     protected String inputName = "";
     protected Boolean running = true;
@@ -43,20 +47,16 @@ public class SantaClausWorkShop {
                 "Bosses", JOptionPane.INFORMATION_MESSAGE);
 
         inputName = name.substring(0, 1).toUpperCase() + name.substring(1);
-        List<String> result = findBosses(name);
+        result = findBosses(name);
 
         if (result.size() == 0) {
             getMrsSanta();
         } else {
             StringBuilder sb = new StringBuilder();
-            for (String s : result) {
-                sb.append(s);
-                sb.append("\n");
-            }
+            result.forEach(s -> sb.append(s).append("\n"));
             JOptionPane.showMessageDialog(null,
                     "Bosses: \n" + sb.toString(),
                     "Sub-boss: " + inputName, JOptionPane.INFORMATION_MESSAGE);
-
             running = false;
         }
 
@@ -85,17 +85,15 @@ public class SantaClausWorkShop {
                 "Sub-bosses", JOptionPane.INFORMATION_MESSAGE);
 
         inputName = name.substring(0, 1).toUpperCase() + name.substring(1);
-        List<String> result = findSubBosses(name);
+        result = findSubBosses(name);
+
 
         if (result.size() == 0) {
             JOptionPane.showMessageDialog(null,
                     inputName + " has no sub-bosses, he is at the bottom of the pack!");
         } else {
             StringBuilder sb = new StringBuilder();
-            for (String s : result) {
-                sb.append(s);
-                sb.append("\n");
-            }
+            result.forEach(s -> sb.append(s).append("\n"));
             JOptionPane.showMessageDialog(null,
                     "Sub-bosses: \n" + sb.toString(),
                     "Boss: " + inputName, JOptionPane.INFORMATION_MESSAGE);
@@ -103,6 +101,7 @@ public class SantaClausWorkShop {
             running = false;
         }
     }
+
 
     // recursive method
     public List<String> findSubBosses(String name) {
