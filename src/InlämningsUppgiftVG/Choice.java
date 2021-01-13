@@ -1,4 +1,4 @@
-package inlamningsUppgiftVG;
+package InlämningsUppgiftVG;
 
 public enum Choice {
     MEGABOSS,

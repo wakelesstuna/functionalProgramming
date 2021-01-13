@@ -1,4 +1,4 @@
-package inlamningsUppgiftVG;
+package InlämningsUppgiftVG;
 
 import javax.swing.*;
 import java.io.File;
