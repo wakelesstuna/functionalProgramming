@@ -19,33 +19,6 @@ fun makeMap(): MutableMap<String, MutableList<String>> {
 }
 
 val mapperino = makeMap()
-/*fun addSubBossToList(name: String): List<String> {
-    val temp: MutableList<String> = mutableListOf()
-    return when {
-        mapperino.containsKey(name) -> {
-            for (i in mapperino.getValue(name).toCollection(mutableListOf())){
-                temp.add(i)
-                addSubBossToList(i).forEach { e -> temp.add(e) }
-            }
-            temp
-        }
-        else -> temp
-    }
-}*/
-
-/*fun addSubBossToList(name: String): List<String> {
-    val temp: MutableList<String> = mutableListOf()
-    return when {
-        mapperino.containsKey(name) -> {
-            for (i in mapperino.getValue(name).toCollection(mutableListOf())){
-                temp.add(i)
-                addSubBossToList(i).forEach { e -> temp.add(e) }
-            }
-            temp
-        }
-        else -> temp
-    }
-}*/
 
 fun addSubBossToList(name: String): List<String> {
     val temp: MutableList<String> = mutableListOf()
