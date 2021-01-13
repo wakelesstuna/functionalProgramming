@@ -15,8 +15,7 @@ fun addSubBosses(name: String): List<String> {
     return when {
         mapperino.containsKey(name) -> {
             mapperino.getValue(name)
-                    .toCollection(mutableListOf())
-                    .forEach { e -> temp.add(e); addSubBosses(e).forEach{ v -> temp.add(v) };  }
+                    .forEach { e -> temp.add(e); addSubBosses(e).forEach{ v -> temp.add(v) }; }
             temp
         }
         else -> temp
@@ -24,6 +23,6 @@ fun addSubBosses(name: String): List<String> {
 }
 
 fun main() {
-    val temp = addSubBosses("Tomten")
+    val temp = addSubBosses("skumtomten")
     temp.forEach { s -> println(s) }
 }
