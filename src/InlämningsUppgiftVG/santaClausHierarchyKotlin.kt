@@ -19,7 +19,7 @@ fun makeMap(): MutableMap<String, MutableList<String>> {
 }
 
 val mapperino = makeMap()
-fun addSubBossToList(name: String): List<String> {
+/*fun addSubBossToList(name: String): List<String> {
     val temp: MutableList<String> = mutableListOf()
     return when {
         mapperino.containsKey(name) -> {
@@ -29,13 +29,38 @@ fun addSubBossToList(name: String): List<String> {
             }
             temp
         }
-        else -> {
+        else -> temp
+    }
+}*/
+
+/*fun addSubBossToList(name: String): List<String> {
+    val temp: MutableList<String> = mutableListOf()
+    return when {
+        mapperino.containsKey(name) -> {
+            for (i in mapperino.getValue(name).toCollection(mutableListOf())){
+                temp.add(i)
+                addSubBossToList(i).forEach { e -> temp.add(e) }
+            }
             temp
         }
+        else -> temp
+    }
+}*/
+
+fun addSubBossToList(name: String): List<String> {
+    val temp: MutableList<String> = mutableListOf()
+    return when {
+        mapperino.containsKey(name) -> {
+            mapperino.getValue(name)
+                    .toCollection(mutableListOf())
+                    .forEach { e -> temp.add(e); addSubBossToList(e).forEach{ e -> temp.add(e) };  }
+            temp
+        }
+        else -> temp
     }
 }
 
 fun main() {
-    val temp = addSubBossToList("Glader")
+    val temp = addSubBossToList("Tomten")
     temp.forEach { s -> println(s) }
 }
