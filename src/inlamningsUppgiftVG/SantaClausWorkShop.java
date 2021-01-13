@@ -1,7 +1,4 @@
-package InlämningsUppgiftVG;
-
-
-import jdk.jshell.spi.ExecutionControl;
+package inlamningsUppgiftVG;
 
 import javax.swing.*;
 import java.io.File;
@@ -101,7 +98,6 @@ public class SantaClausWorkShop {
             running = false;
         }
     }
-
 
     // recursive method
     public List<String> findSubBosses(String name) {

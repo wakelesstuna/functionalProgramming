@@ -1,12 +1,7 @@
 package Inlämningsupgift;
 
-import java.rmi.server.Operation;
 import java.util.*;
-import java.util.concurrent.CopyOnWriteArrayList;
-import java.util.function.Function;
-import java.util.function.Supplier;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /*
 Inlämningsuppgit i kursen Funktionell Programmering för JAVA-programmet

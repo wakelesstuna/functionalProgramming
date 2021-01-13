@@ -1,7 +1,7 @@
-package InlämningsUppgiftVG;
+package inlamningsUppgiftVG;
 
 public enum Choice {
     MEGABOSS,
     BOSSES,
-    SUBBOSSES;
+    SUBBOSSES
 }
