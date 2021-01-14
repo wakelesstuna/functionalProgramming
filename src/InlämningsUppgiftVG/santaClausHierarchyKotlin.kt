@@ -21,7 +21,7 @@ fun addSubBosses(name: String): List<String> {
 fun addBosses(name: String): List<String> {
     val temp: MutableList<String> = mutableListOf()
     mapperino.forEach { (k, v) -> v.forEach { n -> if (n == name) { temp.add(k); addBosses(k).forEach{temp.add(it)}}}}
-    return temp.reversed()
+    return temp
 }
 
 fun main() {
@@ -30,7 +30,7 @@ fun main() {
     subBosses.forEach { println(it) }
 
     println("\n---Bosses---")
-    val bosses = addBosses("Bladlusen")
+    val bosses = addBosses("Bladlusen").reversed()
     bosses.forEach { println(it) }
 }
 
