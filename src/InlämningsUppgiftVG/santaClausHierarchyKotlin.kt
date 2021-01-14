@@ -20,15 +20,8 @@ fun addSubBosses(name: String): List<String> {
 
 fun addBosses(name: String): List<String> {
     val temp: MutableList<String> = mutableListOf()
-    for ((key, value) in mapperino) {
-        for (v in value){
-            if (v == name){
-                temp.add(0, key)
-                addBosses(key).forEach { temp.add(it) }
-            }
-        }
-    }
-    return temp
+    mapperino.forEach { (k, v) -> v.forEach { n -> if (n == name) { temp.add(k); addBosses(k).forEach{temp.add(it)}}}}
+    return temp.reversed()
 }
 
 fun main() {
