@@ -18,7 +18,26 @@ fun addSubBosses(name: String): List<String> {
     }
 }
 
-fun main() {
-   val temp = addSubBosses("Skumtomten")
-    temp.forEach { s -> println(s) }
+fun addBosses(name: String): List<String> {
+    val temp: MutableList<String> = mutableListOf()
+    for ((key, value) in mapperino) {
+        for (v in value){
+            if (v == name){
+                temp.add(0, key)
+                addBosses(key).forEach { temp.add(it) }
+            }
+        }
+    }
+    return temp
 }
+
+fun main() {
+    println("---Subbosses---")
+    val subBosses = addSubBosses("Tomten")
+    subBosses.forEach { println(it) }
+
+    println("\n---Bosses---")
+    val bosses = addBosses("Bladlusen")
+    bosses.forEach { println(it) }
+}
+
