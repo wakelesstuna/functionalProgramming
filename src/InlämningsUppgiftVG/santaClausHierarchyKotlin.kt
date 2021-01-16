@@ -11,7 +11,7 @@ fun addSubBosses(name: String): List<String> {
     return when {
         mapperino.containsKey(name) -> {
             mapperino.getValue(name)
-                    .forEach { e -> temp.add(e); addSubBosses(e).forEach { v -> temp.add(v) }; }
+                    .forEach { e -> temp.add(e); addSubBosses(e).forEach { temp.add(it) }; }
             temp
         }
         else -> temp
