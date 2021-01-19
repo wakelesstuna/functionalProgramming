@@ -6,31 +6,16 @@ val listOfInput = File("src/InlämningsUppgiftVG/santaClausHierarchy.txt").readL
 fun makeMap(): Map<String, List<String>> = listOfInput.map { e -> e.split(" ") }.associate { e -> e[0] to e.drop(1) }
 
 val mapperino = makeMap()
-fun addSubBosses(name: String): List<String> {
-    val temp: MutableList<String> = mutableListOf()
-    return when {
-        mapperino.containsKey(name) -> {
-            mapperino.getValue(name)
-                    .forEach { e -> temp.add(e); addSubBosses(e).forEach { temp.add(it) }; }
-            temp
-        }
-        else -> temp
-    }
-}
 
-fun addBosses(name: String): List<String> {
-    val temp: MutableList<String> = mutableListOf()
-    mapperino.forEach { (k, v) -> v.forEach { n -> if (n == name) { temp.add(k); addBosses(k).forEach{temp.add(it)}}}}
-    return temp
-}
+fun addSubBosses(name: String): List<String> = if (mapperino.containsKey(name)) mapperino.getValue(name).map { e -> (addSubBosses(e) + e).map { it } }.flatten() else emptyList()
+
+fun addBosses(name: String): List<String> = mapperino.map { (k, v) -> if (v.contains(name)) { (addBosses(k) + k).map { it } } else emptyList()}.flatten()
 
 fun main() {
     println("---Subbosses---")
-    val subBosses = addSubBosses("Tomten")
-    subBosses.forEach { println(it) }
+    addSubBosses("Tomten").forEach { println(it) }
 
     println("\n---Bosses---")
-    val bosses = addBosses("Bladlusen").reversed()
-    bosses.forEach { println(it) }
+    addBosses("Bladlusen").forEach { println(it) }
 }
 
