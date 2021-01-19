@@ -133,4 +133,10 @@ public class SantaClausWorkShop {
         return inputLines;
     }
 
+    public enum Choice {
+        MEGABOSS,
+        BOSSES,
+        SUBBOSSES
+    }
+
 }
